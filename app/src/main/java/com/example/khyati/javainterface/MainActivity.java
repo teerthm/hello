@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         usernameDetails.addRule(RelativeLayout.ABOVE, Redbutton.getId());
         usernameDetails.addRule(RelativeLayout.CENTER_HORIZONTAL);
         usernameDetails.setMargins(0, 0, 0, 50);
-        Username.setBackgroundColor(Color.YELLOW);
+        Username.setBackgroundColor(Color.WHITE);
 
 
 
